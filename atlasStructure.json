@@ -467,7 +467,7 @@
         "annotation": {
             "name": "Muscles"
         },
-        "members": [
+        "member": [
             "#left_levator_scapulae_muscle",
             "#left_masseter_muscle",
             "#left_scalenius_muscle",
@@ -536,7 +536,7 @@
         "annotation": {
             "name": "Glands"
         },
-        "members": [
+        "member": [
             "#left_parotid_gland",
             "#right_parotid_gland",
             "#thyroid_gland"
@@ -548,7 +548,7 @@
     {
         "@id": "#_urlbase",
         "@type": "BaseURL",
-        "url": null
+        "url": ""
     },
     {
         "@id": "#thoracic2",
@@ -722,7 +722,7 @@
             "#bgimagesrc0"
         ],
         "root": [
-            "Head_and_Neck_Atlas"
+            "#Head_and_Neck_Atlas"
         ],
         "title": "Head and Neck Atlas"
     },
@@ -948,7 +948,7 @@
         "annotation": {
             "name": "Veins"
         },
-        "members": [
+        "member": [
             "#left_internal_jugular_vein",
             "#left_subclavian_vein",
             "#right_internal_jugular_vein",
@@ -1187,7 +1187,7 @@
         "annotation": {
             "name": "Bones"
         },
-        "members": [
+        "member": [
             "#atlas",
             "#axis",
             "#cervical3",
@@ -1265,7 +1265,7 @@
         "annotation": {
             "name": "Arteries"
         },
-        "members": [
+        "member": [
             "#arch_of_aorta",
             "#brachiocephalic_trunk",
             "#left_common_carotid",
@@ -1318,7 +1318,7 @@
         "annotation": {
             "name": "Head and Neck Atlas"
         },
-        "members": [
+        "member": [
             "#Bones",
             "#Cartilage",
             "#Glands",
@@ -1356,7 +1356,7 @@
         "annotation": {
             "name": "Vessels"
         },
-        "members": [
+        "member": [
             "#Arteries",
             "#Veins"
         ],
@@ -2048,7 +2048,7 @@
         "annotation": {
             "name": "Cartilage"
         },
-        "members": [
+        "member": [
             "#cricoid_cartilage",
             "#thyroid_cartilage"
         ],
